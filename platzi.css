@@ -1,4 +1,6 @@
 p{
     color: #8cca20;
-    /* El valor está en Hexadecimal*/
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial;
 }
