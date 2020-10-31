@@ -1,6 +1,9 @@
-p{
-    color: #8cca20;
-    font-size: 15px;
-    font-weight: bold;
-    font-family: Arial;
+body{
+    margin: 0px;
+}
+header{
+
+    background-color: #188c65;
+    width: 100%;
+    height: 80px;
 }
